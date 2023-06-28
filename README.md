@@ -1,3 +1,6 @@
+div>
+  <img src="https://www.canva.com/design/DAFnE02JgPo/view" width=200px />
+</div>
 ### Hi there 👋
 
 <!--
