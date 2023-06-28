@@ -1,5 +1,5 @@
-div>
-  <img src="https://www.canva.com/design/DAFnE02JgPo/view" width=200px />
+<div id="header" aling="center">
+  <img src="https://www.canva.com/design/DAFnE02JgPo/view" width="200" />
 </div>
 ### Hi there 👋
 
