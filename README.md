@@ -1,6 +1,4 @@
-<div>
-  <img src="https://www.canva.com/design/DAFnEhmLJj4/O5497H8LHUDK5_bYN-b-Eg/edit?utm_content=DAFnEhmLJj4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">
-</div>
+
 Hi there 👋
 
 <!--
